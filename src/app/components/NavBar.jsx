@@ -11,7 +11,7 @@ export default class NavBar extends Component{
     <Link className="btn btn-ghost text-xl" href="">
       <Image
                     className="dark:invert"
-                    src="/logo-belen.svg"
+                    src="/svg-6.svg"
                     alt="Logo Belén Web"
                     width={50}
                     height={50}
