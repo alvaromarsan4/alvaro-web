@@ -33,7 +33,6 @@ export default class NavBar extends Component{
         <li>
           <Link className="justify-between" href="/user/profile">
             Profile
-            <span className="badge">New</span>
           </Link>
         </li>
         <li><Link href="/user/settings">Settings</Link></li>
