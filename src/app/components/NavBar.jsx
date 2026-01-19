@@ -36,6 +36,7 @@ export default class NavBar extends Component{
           </Link>
         </li>
         <li><Link href="/user/settings">Settings</Link></li>
+        <li><Link href="/user/dashboard">Dashboard</Link></li>
         <li><Link href="">Logout</Link></li>
       </ul>
     </div>
